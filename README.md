@@ -116,6 +116,8 @@ What's the `filename` of the first result?
 * `04-evaluation/lessons/13-llm-as-judge.md`
 * `06-best-practices/lessons/02-hybrid-search.md`
 
+> **Answer**: `01-agentic-rag/lessons/14-agentic-loop.md`
+
 ## Q3. RAG
 
 Now we will build a RAG assistant on top of this data. Let's use the rag helper 
