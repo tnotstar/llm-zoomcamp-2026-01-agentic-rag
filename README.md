@@ -263,6 +263,7 @@ How many times did the agent call `search`?
 * 10
 * 20
 
+> **Answer:** Agent called `search_tool` three (3) times. Approx. 4 times.
 
 ## Learning in Public
 
