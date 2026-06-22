@@ -219,6 +219,7 @@ version send?
 * 10× fewer
 * 30× fewer
 
+> **Answer:** Input tokens with chunked index were 2221, approx 3x fewer.
 
 ## Q6. Turning it into an agent
 
