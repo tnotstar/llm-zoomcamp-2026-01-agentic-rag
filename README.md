@@ -163,6 +163,7 @@ Note: for this question and the next ones, if your answer doesn't match exactly,
 just select the closest option - especially if you use a different model or a
 different LLM provider.
 
+> **Answer:** Input tokens were 7036, approx 7000 tokens.
 
 ## Q4. Chunking
 
