@@ -200,6 +200,8 @@ How many chunks do you get?
 * 1100
 * 4500
 
+> **Answer:** 295 chunks.
+
 ## Q5. RAG with chunking
 
 Chunking makes each request smaller, because we send a smaller context to the
