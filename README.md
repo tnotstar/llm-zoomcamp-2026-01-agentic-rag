@@ -6,8 +6,7 @@ agentic - the same path as the module.
 Instead of the course FAQ, our knowledge base is the course lessons
 themselves.
 
-The course repository is organized by module. Each module is a top-level
-folder with a `lessons/` subfolder of numbered markdown pages:
+The course repository is organized by module. Each module is a top-level folder with a `lessons/` subfolder of numbered markdown pages:
 
 ```
 01-agentic-rag/
@@ -100,6 +99,8 @@ How many lesson pages are in the dataset?
 * 72
 * 240
 * 720
+
+> **Answer**: 72 files
 
 ## Q2. Indexing and searching
 
